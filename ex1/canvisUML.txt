@@ -1,0 +1,6 @@
+// TRANSFORMACIÓ 1: La subclasse "CustomizableColor" passa a ser un atribut de la Classe color (veure Color.java:19) i es descarta.
+
+//TRANSFORMACIÓ 2: La classe associativa Rate passa a ser una classe pública rel·lacionada amb Company (cardinalitat simple 1..1) i Order (cardinalitat múltiple *..1). Veure Company.java:30, Rate.java:24,25 i Order.java:32
+
+
+
